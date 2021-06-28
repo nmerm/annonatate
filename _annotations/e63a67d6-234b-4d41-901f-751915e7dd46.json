@@ -1,0 +1,44 @@
+---
+canvas: "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/canvas/acv-P-Sarraz-H-0050_001r.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Angel (2)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud"
+            },
+            "created": "2021-06-28T11:47:16.784Z",
+            "modified": "2021-06-28T11:47:18.655Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "angel",
+            "purpose": "tagging",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud"
+            },
+            "created": "2021-06-28T11:47:20.582Z",
+            "modified": "2021-06-28T11:47:21.191Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/canvas/acv-P-Sarraz-H-0050_001r.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3153.9169921875,2429.524169921875 3146.644287109375,2429.524169921875 3068.46240234375,2475.8876953125 3130.280517578125,2634.069580078125 3330.280517578125,2797.705810546875 3512.0986328125,2782.25146484375 3529.37158203125,2294.069580078125 3337.55322265625,2280.43310546875 3342.098876953125,2127.705810546875 3405.735107421875,1988.614990234375 3347.55322265625,1978.614990234375 3182.098876953125,2164.978759765625 3095.735107421875,2353.160400390625 3151.189697265625,2403.160400390625 3152.098876953125,2412.25146484375 3153.9169921875,2419.524169921875 3153.0078125,2418.614990234375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/e63a67d6-234b-4d41-901f-751915e7dd46.json"
+}
