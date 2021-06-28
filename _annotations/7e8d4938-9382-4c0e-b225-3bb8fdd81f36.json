@@ -1,0 +1,44 @@
+---
+canvas: "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/canvas/acv-P-Sarraz-H-0050_001r.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "angel",
+            "purpose": "tagging",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud"
+            },
+            "created": "2021-06-28T11:46:22.271Z",
+            "modified": "2021-06-28T11:46:22.798Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Angel (1)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud"
+            },
+            "created": "2021-06-28T11:46:24.634Z",
+            "modified": "2021-06-28T11:46:26.896Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/canvas/acv-P-Sarraz-H-0050_001r.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1304.9,2677.8 1369.8,2680.5 1409.6,2671.2 1449.3,2590.3 1581.9,2508.1 1640.2,2394.2 1658.8,2256.3 1584.5,2228.5 1527.6,2294.7 1540.8,2366.3 1477.2,2376.9 1502.4,2326.6 1474.5,2231.1 1490.4,2134.4 1371.1,2127.7 1278.4,2205.9 1249.2,2145 1212.1,2164.9 1213.4,2533.3 1212.1,2639.4 1225.3,2660.6 1257.2,2673.8\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-codices.ch/metadata/iiif/acv-P-Sarraz-H-0050/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/7e8d4938-9382-4c0e-b225-3bb8fdd81f36.json"
+}
