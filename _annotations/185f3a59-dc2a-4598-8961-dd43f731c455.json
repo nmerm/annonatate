@@ -18,25 +18,44 @@ order: 1
         },
         {
             "type": "TextualBody",
-            "value": "Testing the reply feature. Adding a few tags.",
+            "value": "EDIT: Testing the edit function.\nTesting the reply feature. Adding a few tags.",
             "purpose": "commenting",
             "creator": {
                 "id": "nmerm",
                 "name": "Nicolas Mermoud-Ghraichy"
             },
             "created": "2023-08-21T10:20:38.779Z",
-            "modified": "2023-08-21T10:20:51.810Z"
+            "modified": "2023-08-21T10:21:57.804Z"
         },
         {
             "type": "TextualBody",
-            "value": "Lausanne 1832 Census",
             "purpose": "tagging",
+            "value": "Lausanne",
             "creator": {
                 "id": "nmerm",
                 "name": "Nicolas Mermoud-Ghraichy"
             },
-            "created": "2023-08-21T10:21:03.810Z",
-            "modified": "2023-08-21T10:21:15.108Z"
+            "created": "2023-08-21T10:21:42.016Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1832",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud-Ghraichy"
+            },
+            "created": "2023-08-21T10:21:46.767Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Census",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud-Ghraichy"
+            },
+            "created": "2023-08-21T10:21:48.295Z"
         }
     ],
     "id": "185f3a59-dc2a-4598-8961-dd43f731c455.json",
