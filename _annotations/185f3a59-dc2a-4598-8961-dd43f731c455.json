@@ -56,6 +56,17 @@ order: 1
                 "name": "Nicolas Mermoud-Ghraichy"
             },
             "created": "2023-08-21T10:21:48.295Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Replying to a reply.",
+            "purpose": "replying",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud-Ghraichy"
+            },
+            "created": "2023-08-21T10:22:07.664Z",
+            "modified": "2023-08-21T10:22:13.347Z"
         }
     ],
     "id": "185f3a59-dc2a-4598-8961-dd43f731c455.json",
