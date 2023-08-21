@@ -1,0 +1,35 @@
+---
+canvas: "http://cdhvm0003.xaas.epfl.ch/iiif/recensements/1832_RC-106-010_aaa_tiled.tif"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "1ere & 2 Divisions\nMartherey, Etraz &\nSt Pierre du n\u00b0 14 au 26.",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "nmerm",
+                "name": "Nicolas Mermoud-Ghraichy"
+            },
+            "created": "2023-08-21T10:15:01.273Z",
+            "modified": "2023-08-21T10:15:38.127Z"
+        }
+    ],
+    "target": {
+        "source": "http://cdhvm0003.xaas.epfl.ch/iiif/recensements/1832_RC-106-010_aaa_tiled.tif",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1495.95458984375,349.81817626953125,419.0909423828125,198.18182373046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://nmerm.github.io/annonatate/manifests/cdhvm0003.xaas.epfl.ch/web/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "185f3a59-dc2a-4598-8961-dd43f731c455.json",
+    "motivation": "commenting"
+}
